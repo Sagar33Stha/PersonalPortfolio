@@ -25,13 +25,13 @@ const TechSphere = () => {
       }}
     >
       <img
-        src="src/assets/IMG_20250308_150313.jpg"
+        src="public/IMG_20250308_150313.jpg"
         alt="description"
         style={{
           width: "100%",
           height: "100%",
-          objectFit: "cover", 
-          borderRadius: "100%", 
+          objectFit: "cover",
+          borderRadius: "100%",
         }}
       />
     </Box>
