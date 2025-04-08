@@ -1,0 +1,53 @@
+/* ContactForm.css */
+
+
+/* .contact-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0.8) 40%, rgba(255, 255, 255, 0) 80%), 
+              url("../assets/flag.jpg") no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed; 
+  width: 100%;
+  padding: 20px;
+}
+
+.contact-paper {
+  padding: 20px;
+  max-width: 500px;
+  width: 100%;
+  text-align: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.95);
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-title {
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.contact-title span {
+  color: red;
+}
+
+.contact-description {
+  margin-bottom: 24px;
+  color: gray;
+}
+
+.contact-button {
+  background-color: rgb(8, 80, 206) ;
+  color: rgb(250, 246, 246) ;
+  width: 100%;
+  margin-top: 16px ;
+  font-size: 16px ;
+  font-weight: bold ;
+  text-transform: none ;
+}
+
+.contact-button:hover {
+  background-color: darkred ;
+} */
